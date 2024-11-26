@@ -1,7 +1,6 @@
-// Exemplo de um recurso em JavaScript: Validação de formulário
+
 document.getElementById('contactForm').addEventListener('submit', function(event) {
     event.preventDefault(); // Impede o envio do formulário para fins de validação
-    
     const name = document.getElementById('name').value;
     const email = document.getElementById('email').value;
     const message = document.getElementById('message').value;
