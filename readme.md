@@ -1,6 +1,6 @@
 # Portfólio - Luiz Filipe
 
-Este é o portfólio pessoal de [Seu Nome], desenvolvedor web. O objetivo deste site é exibir meus projetos e fornecer uma forma de contato.
+Este é o portfólio pessoal de [Luiz Filipe], desenvolvedor web. O objetivo deste site é exibir meus projetos e fornecer uma forma de contato.
 
 ## Funcionalidades:
 - Página inicial com informações sobre mim e projetos.
